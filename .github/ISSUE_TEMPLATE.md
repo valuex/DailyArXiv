@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 13, 2025
+title: Latest 15 Papers - November 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -47,5 +47,5 @@ labels: documentation
 | **[WiForceSticker: Batteryless, Thin Sticker-like Flexible Force Sensor](https://arxiv.org/pdf/2209.09217v1)** | 2022-09-20 |  |
 | **[High Torque Density PCB Axial Flux Permanent Magnet Motor for Micro Robots](https://arxiv.org/pdf/2509.23561v1)** | 2025-09-30 |  |
 | **[A new shell formulation for graphene structures based on existing ab-initio data](https://arxiv.org/pdf/1612.08965v2)** | 2018-01-11 | <details><summary>New e...</summary><p>New examples are added and some typos are removed. The previous results are unchanged, International Journal of Solids and Structures (2017)</p></details> |
-| **[An Analysis of Various Design Pathways Towards Multi-Terabit Photonic On-Interposer Interconnects](https://arxiv.org/pdf/2306.07241v1)** | 2023-06-13 | <details><summary>Under...</summary><p>Under review (ACM JETC)</p></details> |
+| **[Finite Element Procedures for Enzyme, Chemical Reaction and 'In-Silico' Genome Scale Networks](https://arxiv.org/pdf/1508.02506v1)** | 2015-08-12 |  |
 
