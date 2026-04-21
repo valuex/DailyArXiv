@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 20, 2026
+title: Latest 15 Papers - April 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -8,7 +8,6 @@ labels: documentation
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[COMEX Copper Futures Volatility Forecasting: Econometric Models and Deep Learning](https://arxiv.org/abs/2409.08356v1)** | 2024-09-12 |  |
-| **[PGNAA Spectral Classification of Aluminium and Copper Alloys with Machine Learning](https://arxiv.org/abs/2404.14107v1)** | 2024-04-22 |  |
 
 ## semiconductor package
 | **Title** | **Date** | **Comment** |
