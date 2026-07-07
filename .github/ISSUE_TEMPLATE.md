@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 07, 2026
+title: Latest 15 Papers - July 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## copper
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Copper: Unifying Correctness and Performance Specification in Code Generation](https://arxiv.org/abs/2607.03130v1)** | 2026-07-03 |  |
 | **[COMEX Copper Futures Volatility Forecasting: Econometric Models and Deep Learning](https://arxiv.org/abs/2409.08356v1)** | 2024-09-12 |  |
 
 ## semiconductor package
