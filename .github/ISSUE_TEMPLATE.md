@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 31, 2026
+title: Latest 15 Papers - September 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## copper
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What Will This Copper Look Like Later? Forecasting Surface Appearance and Rendering It as a PBR Material](https://arxiv.org/abs/2608.28102v1)** | 2026-08-28 | <details><summary>10 pa...</summary><p>10 pages, 5 figures, 3 tables. (Repository https://github.com/RuffLogix/kstep-copper-forecast)</p></details> |
 | **[Copper: Unifying Correctness and Performance Specification in Code Generation](https://arxiv.org/abs/2607.03130v1)** | 2026-07-03 |  |
 
 ## semiconductor package
